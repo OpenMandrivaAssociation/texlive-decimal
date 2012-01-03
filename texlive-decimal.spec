@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-decimal
 Version:	20110606
-Release:	1
+Release:	2
 Summary:	LaTeX package for the English raised decimal point
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/decimal
