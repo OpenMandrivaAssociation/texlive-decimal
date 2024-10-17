@@ -3,7 +3,7 @@ Version:	23374
 Release:	2
 Summary:	LaTeX package for the English raised decimal point
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/decimal
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/decimal
 License:	LPPL1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/decimal.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/decimal.doc.r%{version}.tar.xz
